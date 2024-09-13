@@ -3,6 +3,7 @@
 def add(a, b):
   return a+b
 def subtract(a, b):
+<<<<<<< HEAD
   return a-b
 
 def multiply(a, b):
@@ -11,4 +12,5 @@ def multiply(a, b):
 def devide_new(a, b):
   return a/b
 
+# fix conflict when reverting 
 
